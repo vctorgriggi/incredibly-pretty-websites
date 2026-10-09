@@ -42,7 +42,9 @@ Mode governs expression and density. Segment presets govern domain expectations 
 
 - `local`: inspect the surrounding surface and research only a new pattern the existing system cannot answer.
 - `surface`: inspect the incumbent system and study comparable flows or page structures. Do not reopen brand tokens.
-- `world`: run the full research-first workflow in `SKILL.md` Section 0.
+- `world`: choose a direction from supplied references, the bundled craft guidance,
+  or inspected comparable products. Use external research for unresolved decisions,
+  not as a fixed quota of sites to visit.
 
 Real references and user-pinned direction outrank archetypes. Vibes and project presets are prompts for analysis, never a menu that must supply the answer.
 

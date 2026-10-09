@@ -9,9 +9,10 @@ license: MIT
 # Incredibly Pretty Websites
 
 Start from the brief and the actual product. For a local change, preserve surrounding
-tokens, components and behavior. A new or replacement visual direction needs real
-references: inspect comparable products, select a primary direction and name what
-will carry into the implementation. Research in proportion to the requested scope.
+tokens, components and behavior. Ground a new visual direction in supplied references,
+the bundled design guidance, or inspected comparable products. Select a primary
+direction and name what will carry into the implementation. Research only unresolved
+design questions; a paid gallery or fresh external search is not a prerequisite.
 Do not average references into a generic style or impose a preset on an existing brand.
 
 Preserve the incumbent framework and deployment path. Use React when a new project
@@ -24,6 +25,7 @@ Read only the references needed for the work:
 |---|---|
 | Scope, brand and direction | [Direction workflow](reference/direction-workflow.md), [foundations](reference/foundations.md) |
 | Research without subscriptions | [Free design references](reference/design-references.md) |
+| Landing-page direction from the brief | [Taste-informed craft](reference/taste-informed.md) |
 | Layout and responsive behavior | [Spatial](reference/spatial-design.md), [responsive](reference/responsive-design.md) |
 | Interaction and motion | [Interaction](reference/interaction-design.md), [motion](reference/motion-design.md) |
 | Specific animation/gesture decisions | [Design engineering](reference/design-engineering.md) |
@@ -34,6 +36,8 @@ Read only the references needed for the work:
 | Detailed recipes and project presets | [Implementation guide](reference/implementation-guide.md) |
 
 Do not require a paid reference library, another coding agent or a second model API.
+Keep the entry point and one relevant reference in context; open detailed recipes only
+for a concrete decision or defect. Reuse the direction contract during repairs.
 Generate images with a configured capability in the active session; use licensed
 assets when appropriate. Respect explicit cost authorization for optional media services.
 
